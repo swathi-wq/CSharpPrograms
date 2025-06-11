@@ -186,7 +186,8 @@ namespace CSharpPrograms
 
             }
 
-
+public class GitChecker{
+  
         }
     }
 }
