@@ -31,3 +31,9 @@ public class ProductsCamare : IComparer<Products>
         else return 0;
     }
 }
+public class Student{
+public int S_Id{get;set}
+public string name{get;set}
+
+
+}
